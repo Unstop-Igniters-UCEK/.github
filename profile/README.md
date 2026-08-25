@@ -7,9 +7,9 @@
 # 🔥 Unstop Igniters UCEK
 ### India's 2nd Rank Top Performing Igniters Club | Empowering Careers Through Code & Community
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-Unstop_Igniters_UCEK-blue?style=for-the-badge&logo=github)](https://github.com/unstop-igniters-ucek)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-Unstop_Igniters_UCEK-blue?style=for-the-badge&logo=github)](https://github.com/Unstop-Igniters-UCEK)
 [![Rank](https://img.shields.io/badge/All_India_Rank-2nd-gold?style=for-the-badge&logo=trophy)](https://unstop.com)
-[![Status](https://img.shields.io/badge/Status-Active_&_Growing-success?style=for-the-badge&logo=rocket)](https://github.com/unstop-igniters-ucek)
+[![Status](https://img.shields.io/badge/Status-Active_&_Growing-success?style=for-the-badge&logo=rocket)](https://github.com/Unstop-Igniters-UCEK)
 
 </div>
 
@@ -44,24 +44,12 @@ We go beyond standard academics through high-impact events, technical workshops,
 
 ---
 
-## 🛠️ Our Tech Stack
-
-As a community of builders, we leverage modern, scalable full-stack architectures and DevOps tooling:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | `React` · `TypeScript` · `Tailwind CSS` |
-| **Backend** | `Python` · `FastAPI` |
-| **Databases & Caching** | `PostgreSQL` · `Redis` |
-| **DevOps & Tooling** | `Docker` · `GitHub Actions` · `Git` |
-
----
-
 ## 🔗 Connect With Us
 
-* **Instagram:** [@unstop_igniters_ucek](https://instagram.com)
-* **LinkedIn:** [Unstop Igniters UCEK](https://linkedin.com)
-* **Email:** [your-email@domain.com](mailto:your-email@domain.com)
+* **Instagram:** [@unstopigniters.ucek](https://www.instagram.com/unstopigniters.ucek)
+* **LinkedIn:** [Unstop Igniters UCEK](https://www.linkedin.com/company/unstop-igniters-ucek)
+* **Email:** [unstopignitersucek@gmail.com](mailto:unstopignitersucek@gmail.com)
+* **GitHub:** [Unstop-Igniters-UCEK](https://github.com/Unstop-Igniters-UCEK)
 
 <div align="center">
   <i>Building pathways to success—one placement, one student at a time. 🚀</i>

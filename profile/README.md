@@ -1,5 +1,5 @@
 <div align="center">
-<img src="image_0.png" alt="Unstop Igniters UCEK Banner" width="100%">
+<img src="Banner.png" alt="Unstop Igniters UCEK Banner" width="100%">
 </div>
 
 <div align="center">

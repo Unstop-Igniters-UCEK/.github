@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🔥 Unstop Igniters UCEK
+# Unstop Igniters UCEK 🔥
 ### India's 2nd Rank Top Performing Igniters Club | Empowering Careers Through Code & Community
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-Unstop_Igniters_UCEK-blue?style=for-the-badge&logo=github)](https://github.com/Unstop-Igniters-UCEK)

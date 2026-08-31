@@ -3,7 +3,7 @@
 
 <br><br>
 
-<img src="banner2.png" alt="Unstop Igniters UCEK Banner 2" width="900" style="max-height: 250px; object-fit: cover;">
+<img src="2nd Rank Grid.png" alt="Unstop Igniters UCEK Banner 2" width="900" style="max-height: 250px; object-fit: cover;">
 </div>
 
 <div align="center">

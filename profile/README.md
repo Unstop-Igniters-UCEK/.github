@@ -57,7 +57,7 @@ We go beyond standard academics through high-impact events, technical workshops,
 * **Instagram:** [@unstopigniters.ucek](https://www.instagram.com/unstopigniters.ucek)
 * **LinkedIn:** [Unstop Igniters UCEK](https://www.linkedin.com/company/unstop-igniters-ucek)
 * **Email:** [unstopignitersucek@gmail.com](mailto:unstopignitersucek@gmail.com)
-* **GitHub:** [Unstop-Igniters-UCEK](https://github.com/Unstop-Igniters-UCEK)
+* **GitHub:** [Unstop-Igniters-UCEK](https://github.com/unstopignitersucek)
 
 <div align="center">
   <i>Building pathways to success—one placement, one student at a time. 🚀</i>
